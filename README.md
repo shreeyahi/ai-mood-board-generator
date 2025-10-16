@@ -18,8 +18,7 @@ Type a vibe — like *“calm ocean study zone”* or *“neon cyberpunk dream�
 ## 🧰 Tech Stack
 - Python 3  
 - Matplotlib  
-- PIL (Pillow)  
-- Random module (for vibe variety 😎)
+- PIL (Pillow)
 
 ---
 
@@ -32,11 +31,13 @@ Type a vibe — like *“calm ocean study zone”* or *“neon cyberpunk dream�
 ---
 
 ## 🚀 How to Use
-1. Open the `moodboard_generator.ipynb` file in Google Colab or Jupyter Notebook  
-2. Run the cells  
+1. Open the `moodboard_generator.ipynb` file in **Google Colab**  
+2. Run all the cells  
 3. Type your own prompt when asked  
 4. Watch your mood board appear ✨  
 
 ---
 
-## 📂 Folder Structure
+## 💡 About
+Created by Junior (2025) as part of AI creative exploration projects for university prep.  
+This project shows initiative, design thinking, and an understanding of how AI can empower creativity.
